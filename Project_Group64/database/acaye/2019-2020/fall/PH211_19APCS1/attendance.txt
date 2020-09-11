@@ -1,0 +1,247 @@
+1
+vththu
+Vu Thi Hanh Thu
+phd
+Female
+
+48
+1751021
+Nguyen Duc Thang
+Male
+1999 1 2
+
+1751084
+Vu Dang Nghia
+Male
+1999 1 3
+
+18125048
+Nguyen Tran Quang Duy
+Male
+2000 1 4
+
+18125069
+Dang Thanh Dat
+Male
+2000 1 5
+
+18125146
+Nguyen Minh Thu
+Female
+2000 1 6
+
+19125021
+Nguyen Thanh Dat
+Male
+2001 1 7
+
+19125024
+Mai Quoc Khonh
+Male
+2001 1 8
+
+19125034
+Cao Thien Tro
+Male
+2001 1 9
+
+19125036
+Truong Hoang Vu
+Male
+2001 1 10
+
+19125039
+Dinh Dang Dinh
+Male
+2001 1 11
+
+19125047
+Bui Quang Huy
+Male
+2001 1 12
+
+19125049
+Vuong Hy
+Male
+2001 1 13
+
+19125054
+Quoch Minh Khui
+Male
+2001 1 14
+
+19125059
+Trinh Van Minh
+Male
+2001 1 15
+
+19125060
+Nguyen Thanh Ngan
+Female
+2001 1 16
+
+19125076
+Nguyen Phy Van
+Male
+2001 1 17
+
+19125077
+Pham Quang Vu
+Male
+2001 1 18
+
+19125080
+Duong Bao Chan
+Male
+2001 1 19
+
+19125083
+Thoi Ngoc Thanh Dat
+Male
+2001 1 20
+
+19125084
+Tran Hai Anh Dien
+Male
+2001 1 21
+
+19125087
+Vo Khuong Duy
+Male
+2001 1 22
+
+19125089
+Pham Thi Ngoc Ha
+Female
+2001 1 23
+
+19125091
+Nguyen Hoang Hieu
+Male
+2001 1 24
+
+19125094
+Nguyen Cung Hoang Huy
+Male
+2001 1 25
+
+19125095
+Phan Dinh Huy
+Male
+2001 1 26
+
+19125098
+Nguyen Dinh Khanh
+Male
+2001 1 27
+
+19125099
+Duong Van Khoa
+Male
+2001 1 28
+
+19125100
+Ta Ngoc Minh Khoa
+Male
+2001 1 29
+
+19125101
+Nguyen Truong Lom
+Male
+2001 1 30
+
+19125104
+Pham Thion Long
+Male
+2001 1 31
+
+19125106
+Huynh Tuan Luc
+Male
+2001 2 1
+
+19125111
+Tran Minh Nhut
+Male
+2001 2 2
+
+19125114
+Nguyen Lom Vinh Phy
+Male
+2001 2 3
+
+19125115
+Dinh Duy Phuoc
+Male
+2001 2 4
+
+19125116
+Lo Chou Nhat Quang
+Male
+2001 2 5
+
+19125117
+Nguyen Duy Anh Quoc
+Male
+2001 2 6
+
+19125118
+Nguyen Hoang Son
+Male
+2001 2 7
+
+19125120
+Nguyen Cung Tai
+Male
+2001 2 8
+
+19125121
+Nguyen Duc Thang
+Male
+2001 2 9
+
+19125123
+Nguyen Minh Thu
+Female
+2001 2 10
+
+19125124
+Nguyen Van Tien
+Male
+2001 2 11
+
+19125125
+Ho Ngoc Tun
+Male
+2001 2 12
+
+19125128
+Vu Ngoc Tuan
+Male
+2001 2 13
+
+19125129
+Do Thanh Tung
+Male
+2001 2 14
+
+19125130
+Mai Thi Cam Von
+Female
+2001 2 15
+
+19125132
+Pham Dang Quang Vinh
+Male
+2001 2 16
+
+19125135
+Lo Thanh Danh
+Male
+2001 2 17
+
+19125136
+Lo Thi Kim My
+Female
+2001 2 18
+
