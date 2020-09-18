@@ -9,5 +9,8 @@ Contributors:
 - Truong Quy Hai
 - Truong Lang Truong Son
 
-Go to database to find accounts.
+Note:
+- Please use C++ 17 or newer versions.
+- Go to database to find accounts.
+
 Thank you!!!
