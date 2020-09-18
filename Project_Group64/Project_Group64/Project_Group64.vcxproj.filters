@@ -15,63 +15,63 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="..\..\..\cs162_group64\Project_Team64\Project_Team64\allroles.cpp">
+    <ClCompile Include="allroles.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="..\..\..\cs162_group64\Project_Team64\Project_Team64\lecturer.cpp">
+    <ClCompile Include="lecturer.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="..\..\..\cs162_group64\Project_Team64\Project_Team64\Main.cpp">
+    <ClCompile Include="Main.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="..\..\..\cs162_group64\Project_Team64\Project_Team64\menu.cpp">
+    <ClCompile Include="menu.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="..\..\..\cs162_group64\Project_Team64\Project_Team64\staff.cpp">
+    <ClCompile Include="staff.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="..\..\..\cs162_group64\Project_Team64\Project_Team64\staffattend.cpp">
+    <ClCompile Include="staffattend.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="..\..\..\cs162_group64\Project_Team64\Project_Team64\staffclass.cpp">
+    <ClCompile Include="staffclass.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="..\..\..\cs162_group64\Project_Team64\Project_Team64\staffcourse.cpp">
+    <ClCompile Include="staffcourse.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="..\..\..\cs162_group64\Project_Team64\Project_Team64\staffscore.cpp">
+    <ClCompile Include="staffscore.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="..\..\..\cs162_group64\Project_Team64\Project_Team64\student.cpp">
+    <ClCompile Include="student.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="..\..\..\cs162_group64\Project_Team64\Project_Team64\allroles.h">
+    <ClInclude Include="allroles.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="..\..\..\cs162_group64\Project_Team64\Project_Team64\lecturer.h">
+    <ClInclude Include="lecturer.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="..\..\..\cs162_group64\Project_Team64\Project_Team64\menu.h">
+    <ClInclude Include="menu.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="..\..\..\cs162_group64\Project_Team64\Project_Team64\staff.h">
+    <ClInclude Include="staff.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="..\..\..\cs162_group64\Project_Team64\Project_Team64\staffattend.h">
+    <ClInclude Include="staffattend.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="..\..\..\cs162_group64\Project_Team64\Project_Team64\staffclass.h">
+    <ClInclude Include="staffclass.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="..\..\..\cs162_group64\Project_Team64\Project_Team64\staffcourse.h">
+    <ClInclude Include="staffcourse.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="..\..\..\cs162_group64\Project_Team64\Project_Team64\staffscore.h">
+    <ClInclude Include="staffscore.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="..\..\..\cs162_group64\Project_Team64\Project_Team64\student.h">
+    <ClInclude Include="student.h">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>

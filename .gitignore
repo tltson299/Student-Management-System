@@ -30,3 +30,7 @@
 *.exe
 *.out
 *.app
+.vs
+Debug
+Project_Group64/.vs/Project_Group64/v16/.suo
+Project_Group64/.vs/Project_Group64/v16/Browse.VC.db

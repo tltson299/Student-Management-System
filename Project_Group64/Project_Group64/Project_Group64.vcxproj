@@ -21,7 +21,7 @@
   <PropertyGroup Label="Globals">
     <VCProjectVersion>16.0</VCProjectVersion>
     <Keyword>Win32Proj</Keyword>
-    <ProjectGuid>{fe503fe1-599d-42cf-a487-3f00f8199365}</ProjectGuid>
+    <ProjectGuid>{2721d840-615e-4f94-aba6-5468dc14f615}</ProjectGuid>
     <RootNamespace>ProjectGroup64</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
   </PropertyGroup>
@@ -117,6 +117,7 @@
       <SDLCheck>true</SDLCheck>
       <PreprocessorDefinitions>_DEBUG;_CONSOLE;%(PreprocessorDefinitions)</PreprocessorDefinitions>
       <ConformanceMode>true</ConformanceMode>
+      <LanguageStandard>stdcpp17</LanguageStandard>
     </ClCompile>
     <Link>
       <SubSystem>Console</SubSystem>
@@ -140,27 +141,27 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="..\..\..\cs162_group64\Project_Team64\Project_Team64\allroles.cpp" />
-    <ClCompile Include="..\..\..\cs162_group64\Project_Team64\Project_Team64\lecturer.cpp" />
-    <ClCompile Include="..\..\..\cs162_group64\Project_Team64\Project_Team64\Main.cpp" />
-    <ClCompile Include="..\..\..\cs162_group64\Project_Team64\Project_Team64\menu.cpp" />
-    <ClCompile Include="..\..\..\cs162_group64\Project_Team64\Project_Team64\staff.cpp" />
-    <ClCompile Include="..\..\..\cs162_group64\Project_Team64\Project_Team64\staffattend.cpp" />
-    <ClCompile Include="..\..\..\cs162_group64\Project_Team64\Project_Team64\staffclass.cpp" />
-    <ClCompile Include="..\..\..\cs162_group64\Project_Team64\Project_Team64\staffcourse.cpp" />
-    <ClCompile Include="..\..\..\cs162_group64\Project_Team64\Project_Team64\staffscore.cpp" />
-    <ClCompile Include="..\..\..\cs162_group64\Project_Team64\Project_Team64\student.cpp" />
+    <ClCompile Include="allroles.cpp" />
+    <ClCompile Include="lecturer.cpp" />
+    <ClCompile Include="Main.cpp" />
+    <ClCompile Include="menu.cpp" />
+    <ClCompile Include="staff.cpp" />
+    <ClCompile Include="staffattend.cpp" />
+    <ClCompile Include="staffclass.cpp" />
+    <ClCompile Include="staffcourse.cpp" />
+    <ClCompile Include="staffscore.cpp" />
+    <ClCompile Include="student.cpp" />
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="..\..\..\cs162_group64\Project_Team64\Project_Team64\allroles.h" />
-    <ClInclude Include="..\..\..\cs162_group64\Project_Team64\Project_Team64\lecturer.h" />
-    <ClInclude Include="..\..\..\cs162_group64\Project_Team64\Project_Team64\menu.h" />
-    <ClInclude Include="..\..\..\cs162_group64\Project_Team64\Project_Team64\staff.h" />
-    <ClInclude Include="..\..\..\cs162_group64\Project_Team64\Project_Team64\staffattend.h" />
-    <ClInclude Include="..\..\..\cs162_group64\Project_Team64\Project_Team64\staffclass.h" />
-    <ClInclude Include="..\..\..\cs162_group64\Project_Team64\Project_Team64\staffcourse.h" />
-    <ClInclude Include="..\..\..\cs162_group64\Project_Team64\Project_Team64\staffscore.h" />
-    <ClInclude Include="..\..\..\cs162_group64\Project_Team64\Project_Team64\student.h" />
+    <ClInclude Include="allroles.h" />
+    <ClInclude Include="lecturer.h" />
+    <ClInclude Include="menu.h" />
+    <ClInclude Include="staff.h" />
+    <ClInclude Include="staffattend.h" />
+    <ClInclude Include="staffclass.h" />
+    <ClInclude Include="staffcourse.h" />
+    <ClInclude Include="staffscore.h" />
+    <ClInclude Include="student.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
